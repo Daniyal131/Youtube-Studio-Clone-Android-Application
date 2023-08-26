@@ -115,7 +115,7 @@ fun ChannelNameInfo() {
                 color = Color.White,
 //                fontWeight = FontWeight.Bold
             )
-        }
+        } 
     }
 }
 
